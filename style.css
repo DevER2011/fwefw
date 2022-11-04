@@ -1,0 +1,18 @@
+body{
+    background:rgb(205, 67, 232) ;
+    color: rgb(11, 198, 244);
+    }
+    .heading{
+    width:80%;
+    font-size:25px ;
+    font: bold;
+    }
+    .name_of_objects{
+    color: crimson;
+    font-size: 30px;
+    }
+    #camera{
+    border:5px dashed magenta;
+    height: 300px;
+    width: 300px;
+    }
